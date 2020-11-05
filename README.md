@@ -1,7 +1,8 @@
+## Session 13 - Sequence Types I
+
 **A regular strictly convex polygon is a polygon that has the following characteristics:**
 1. all interior angles are less than 180
 2. all sides have equal length
-3. ![image-2.png](https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A77bf5f216826c1c79146a95b2d97295a2ce3049ab130a25535ef4d63%2BIMAGE_TINY%2BIMAGE_TINY.1)
  
 **For a regular strictly convex polygon with:**
 * n edges (=n vertices)
